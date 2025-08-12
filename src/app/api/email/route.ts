@@ -48,6 +48,36 @@ const defaultAccounts: EmailAccount[] = [
     smtpServer: 'smtp.email.cn',
     smtpPort: 465,
     isActive: true
+  },
+  {
+    id: '3',
+    email: '168@HH.email.cn',
+    password: 'KWf2YAGsPE5xWP3G',
+    imapServer: 'imap.email.cn',
+    imapPort: 993,
+    smtpServer: 'smtp.email.cn',
+    smtpPort: 465,
+    isActive: true
+  },
+  {
+    id: '4',
+    email: 'BOSS@HH.email.cn',
+    password: 'EwGEZHiEjuqsdQj9',
+    imapServer: 'imap.email.cn',
+    imapPort: 993,
+    smtpServer: 'smtp.email.cn',
+    smtpPort: 465,
+    isActive: true
+  },
+  {
+    id: '5',
+    email: 'support@HH.email.cn',
+    password: '76sbGb3kcryNP7jh',
+    imapServer: 'imap.email.cn',
+    imapPort: 993,
+    smtpServer: 'smtp.email.cn',
+    smtpPort: 465,
+    isActive: true
   }
 ]
 
