@@ -80,6 +80,36 @@ export default function Home() {
         smtpServer: 'smtp.email.cn',
         smtpPort: 465,
         isActive: true
+      },
+      {
+        id: '3',
+        email: '168@HH.email.cn',
+        password: 'KWf2YAGsPE5xWP3G',
+        imapServer: 'imap.email.cn',
+        imapPort: 993,
+        smtpServer: 'smtp.email.cn',
+        smtpPort: 465,
+        isActive: true
+      },
+      {
+        id: '4',
+        email: '1688@HH.email.cn',
+        password: '4kIYwAgzCsaGQBMT',
+        imapServer: 'imap.email.cn',
+        imapPort: 993,
+        smtpServer: 'smtp.email.cn',
+        smtpPort: 465,
+        isActive: true
+      },
+      {
+        id: '5',
+        email: '99@HH.email.cn',
+        password: 'tX7Vv2AsFZ2dBFV6',
+        imapServer: 'imap.email.cn',
+        imapPort: 993,
+        smtpServer: 'smtp.email.cn',
+        smtpPort: 465,
+        isActive: true
       }
     ]
     setAccounts(defaultAccounts)
